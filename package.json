@@ -9,7 +9,7 @@
   },
   "scripts": {
     "serve": "node index",
-    "start": "node index"
+    "start": "npm start"
   },
   "keywords": [],
   "author": "",
